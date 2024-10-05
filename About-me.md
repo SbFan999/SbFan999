@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SbFan999
+- I is like rootbeer and Spongebob
+- 🌱 I’m currently learning javascript & python
+- ⚡ Fun fact: Theres a world record for the longest time to balence a lawn mower on your chin, the world record was 9 minutes and 17.38 seconds
